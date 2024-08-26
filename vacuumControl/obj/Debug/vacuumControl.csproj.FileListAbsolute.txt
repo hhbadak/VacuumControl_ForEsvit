@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\bin\Debug\vacuumControl.exe.config
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\bin\Debug\vacuumControl.exe
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\bin\Debug\vacuumControl.pdb
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.Form1.resources
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.Properties.Resources.resources
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.exe
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.pdb
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.LoginPage.resources
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\source\repos\vacuumControl\vacuumControl\obj\Debug\vacuumControl.csproj.CopyComplete
